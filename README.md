@@ -1,6 +1,8 @@
 # LuaQuadtree
 A basic quadtree type for retrieving potential collisions
 
+![example quadtree](https://cloud.githubusercontent.com/assets/8511306/9291243/e1edad9c-43f7-11e5-8956-a5894201bbca.png)
+
 ## Methods
 
 The datatype to be used for inserting and retrieving "object" is defined as:
